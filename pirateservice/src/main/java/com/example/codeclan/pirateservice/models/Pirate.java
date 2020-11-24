@@ -52,9 +52,7 @@ public class Pirate {
         this.raids = new ArrayList<>();
     }
 
-    public Pirate() {
-
-    }
+    public Pirate() {}
 
     public Long getId() {
         return id;
